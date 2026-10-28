@@ -1,0 +1,9 @@
+language,short_name,metric,qwen_higher,gemma_higher,tie,n
+Bengali,Bn,ROUGE-1,115,82,3,200
+Bengali,Bn,ROUGE-2,83,62,55,200
+Bengali,Bn,ROUGE-L,124,74,2,200
+Bengali,Bn,BERTScore F1,141,59,0,200
+Hindi,Hi,ROUGE-1,110,88,2,200
+Hindi,Hi,ROUGE-2,103,77,20,200
+Hindi,Hi,ROUGE-L,121,77,2,200
+Hindi,Hi,BERTScore F1,111,89,0,200

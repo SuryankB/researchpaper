@@ -1,0 +1,13 @@
+﻿language,measure,mean,std,median
+Bengali,human_word_count,21.99,6.828104793819211,21.0
+Bengali,gemma_word_count,60.8,10.167442373680343,60.0
+Bengali,human_char_count,150.375,44.522868326513965,147.5
+Bengali,gemma_char_count,408.88,68.38367667931364,401.5
+Bengali,human_sentence_count,1.275,0.5665508798841349,1.0
+Bengali,gemma_sentence_count,3.125,0.4587233759886147,3.0
+Hindi,human_word_count,27.645,8.101676419360384,28.0
+Hindi,gemma_word_count,74.63,12.75604497550418,75.0
+Hindi,human_char_count,141.235,39.704053120189805,140.5
+Hindi,gemma_char_count,387.25,67.92004980732233,391.0
+Hindi,human_sentence_count,1.255,0.49110172522870765,1.0
+Hindi,gemma_sentence_count,3.13,0.5519267302621693,3.0
